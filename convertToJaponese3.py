@@ -3,7 +3,7 @@ import sys
 
 #Insert your first name and last name here
 name="Integritas";
-lastName="Rocks";
+lastName="Rock";
 
 if len(sys.argv) > 1:
     name=sys.argv[1].lower();
