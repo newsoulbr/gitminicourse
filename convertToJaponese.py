@@ -2,8 +2,8 @@
 import sys
 
 #Insert you name here
-name="Bruno";
-lastName="Selva";
+name="Integritas";
+lastName="Team";
 
 if len(sys.argv) > 1:
     name=sys.argv[1].lower();
