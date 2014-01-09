@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 import sys
 
-#Insert you name here
+#Insert you name here folk
 name="Integritas";
 lastName="RockStars";
 
